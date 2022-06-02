@@ -1,4 +1,4 @@
-### 국비 지원 수강생
+### 2021.11.30 ~ 현재 : (빅데이터 전문가) 파이썬 & 웹기반 빅데이터 활용 전문 개발자 양성과정
 <!--
 **iwalkbyfaith/iwalkbyfaith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
