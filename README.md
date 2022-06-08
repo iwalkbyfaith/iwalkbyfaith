@@ -1,5 +1,5 @@
 <div align=center><h3> 2021.11.30 ~ : (빅데이터 전문가) 파이썬 & 웹기반 빅데이터 활용 전문 개발자 양성과정 </h3></div>
-<a href="https://blog.naver.com/godownthestreet">블로그</a>
+<div align><button><a href="https://blog.naver.com/godownthestreet">블로그</a></button></div>
 
 
 <hr/>
